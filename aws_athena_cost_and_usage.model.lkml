@@ -1,4 +1,4 @@
-connection: "aws_optimizer"
+connection: "redshift"
 
 # include all the views
 include: "*.view"
